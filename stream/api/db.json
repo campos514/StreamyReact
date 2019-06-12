@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My games",
+      "description": "My new games",
+      "id": 1
+    },
+    {
+      "title": "this was create by me test",
+      "description": "Yesss",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation test",
+      "description": "Why??",
+      "id": 4
+    }
+  ]
+}
